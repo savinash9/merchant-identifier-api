@@ -1,1 +1,1 @@
-# merchant-identifer-api
+# merchant-identifier-api
