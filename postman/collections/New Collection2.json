@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "db3fa849-1cac-4b40-b04e-22806d5fa392",
+		"name": "New Collection2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "29217298-db3fa849-1cac-4b40-b04e-22806d5fa392"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "e7375468-c8bd-4107-9ae8-038af6123f10",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
