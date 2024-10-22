@@ -13,7 +13,7 @@ servers:
   - url: https://sandbox.api.mastercard.com/merchant-identifier
     description: Sandbox server
 tags:
-  - name: Merchants
+  - name: Merchants111
     description: API for Merchant Identifier
 paths:
   /merchants:
